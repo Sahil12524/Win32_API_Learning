@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Keylogger", "Keylogger\Keyl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinMain", "WinMain\WinMain.vcxproj", "{B87738F4-A54D-4B0A-A3F4-4F5AD226BDC9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Home Work Template", "Home Work Template\Home Work Template.vcxproj", "{5532609B-947C-4306-A189-A31384AAD409}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B87738F4-A54D-4B0A-A3F4-4F5AD226BDC9}.Release|x64.Build.0 = Release|x64
 		{B87738F4-A54D-4B0A-A3F4-4F5AD226BDC9}.Release|x86.ActiveCfg = Release|Win32
 		{B87738F4-A54D-4B0A-A3F4-4F5AD226BDC9}.Release|x86.Build.0 = Release|Win32
+		{5532609B-947C-4306-A189-A31384AAD409}.Debug|x64.ActiveCfg = Debug|x64
+		{5532609B-947C-4306-A189-A31384AAD409}.Debug|x64.Build.0 = Debug|x64
+		{5532609B-947C-4306-A189-A31384AAD409}.Debug|x86.ActiveCfg = Debug|Win32
+		{5532609B-947C-4306-A189-A31384AAD409}.Debug|x86.Build.0 = Debug|Win32
+		{5532609B-947C-4306-A189-A31384AAD409}.Release|x64.ActiveCfg = Release|x64
+		{5532609B-947C-4306-A189-A31384AAD409}.Release|x64.Build.0 = Release|x64
+		{5532609B-947C-4306-A189-A31384AAD409}.Release|x86.ActiveCfg = Release|Win32
+		{5532609B-947C-4306-A189-A31384AAD409}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
